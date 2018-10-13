@@ -1,0 +1,5 @@
+user_agent='Read comments'
+client_id='ID'
+client_secret='secret'
+username = 'username'
+password = 'password'
